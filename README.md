@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills & Tools
 
-# Languages & Querying
+### Languages & Querying
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-0078D4?style=for-the-badge)
@@ -24,18 +24,18 @@
 ![SSMS](https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC4B35?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A43733?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-# Databases & Database Tools
+### Databases & Database Tools
 ![SSMS](https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC4B35?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A43733?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-# Data Visualization
+### Data Visualization
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-5E8D5E?style=for-the-badge)
 
-# Tools & Environments
+### Tools & Environments
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
