@@ -1,6 +1,6 @@
 # Hi, I'm Ali! 👋 📈 📡 🚚
 
-### MSc in Data Science | Telecommunications Data Analysis | Financial Data Analysis | Supply Chain Data Analysis
+### MSc in Data Science | Data Scientist: Telecom • Finance • Supply Chain
 
 ## 👨‍💻 About Me
 * 📡 Currently, I am working as a Data Science Consultant at Golis Telecom Somalia.
