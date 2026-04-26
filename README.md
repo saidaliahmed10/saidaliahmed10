@@ -16,13 +16,13 @@
 ![SQL](https://img.shields.io/badge/SQL-green)
 ![R](https://img.shields.io/badge/R-lightgrey)
 
----
+
 
 ### 📊 Data Analysis & Manipulation
 ![Pandas](https://img.shields.io/badge/Pandas-black)
 ![NumPy](https://img.shields.io/badge/NumPy-blue)
 
----
+
 
 ### 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
@@ -30,17 +30,14 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-blue)
 
----
 
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
 
----
 
 ### 🧠 Advanced / Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 
----
 
 ### 🧰 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-black)
