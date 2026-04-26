@@ -47,5 +47,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
 ![VS Code](https://img.shields.io/badge/VSCode-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange)
+<hr style="border:1px solid #e5e5e5">
 
 ## 📂 Portfolio
